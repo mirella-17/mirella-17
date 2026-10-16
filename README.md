@@ -24,13 +24,11 @@
   <a href="https://www.linkedin.com/in/mirella-ferreira-oliveira-b273b52b8/"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=f9a8d4" alt="LinkedIn de Mirella Ferreira Oliveira" /></a>
 </p>
 
-Comecei na **Severino Biu**, onde fiquei até outubro de 2026. Hoje sigo apenas na [**SIP — Santana Inteligência Política**](https://www.santanainteligencia.com.br/). Criei do zero alguns sites e algumas ferramentas, entre elas uma que o time passou a usar no dia a dia. No restante, entrei em partes do que já existia.
+De dezembro de 2025 a outubro de 2026, atuei na **Severino Biu**. Desde abril de 2026, atuo na [**SIP — Santana Inteligência Política**](https://www.santanainteligencia.com.br/). Criei do zero alguns sites e algumas ferramentas, e uma delas entrou na rotina do time. Nas partes do produto em que atuo, trabalho em equipe, conduzo projetos e ideias, cuido da UI/UX e desenho fluxos de automação. Como aluna de Ciência da Computação, trabalho com ferramentas de inteligência artificial, com revisão humana antes de a saída ser tratada como concluída. Participo da decisão do que a tela mostra, de como o número é contado e de quando um fluxo pode ser concluído.
 
 <p align="center">
   <img src="frentes.png" alt="Três frentes: Interfaces, com páginas, fluxos e a leitura de quem usa. Construção de ferramentas e automações para o uso diário. Critério: o que entra, como se mede e quando se conclui." width="100%" />
 </p>
-
-Como aluna de Ciência da Computação, comecei a trabalhar com ferramentas que usam inteligência artificial. A saída passa por revisão humana antes de ser tratada como concluída.
 
 Técnica em Edificações pelo IFPB. Medalha de ouro na MOBFOG, 43ª Jornada de Foguetes, e Cientista Mirim Honorária pelo projeto Caravana Espacial.
 
